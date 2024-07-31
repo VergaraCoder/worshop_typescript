@@ -56,5 +56,9 @@ Por lo que lo que si se vuelve a compilar los .ts , posiblemente los arhcivos .j
 
 
 
+______________________________
 
+DESDE QUE CARPETA ABRIR EL PROYECTO?
+
+Hacer el code . en la carpeta practice_typescript2
 
